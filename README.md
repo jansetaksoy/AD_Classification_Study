@@ -4,7 +4,7 @@ Binary classification of Alzheimer's Disease using machine learning models on cl
 
 Installation
 bash
-git clone https://github.com/YOUR_USERNAME/alzheimers-classification.git
+git clone https://github.com/janset/aksoy/alzheimers-classification.git
 cd alzheimers-classification
 pip install -r requirements.txt
 Usage
